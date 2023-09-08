@@ -1,6 +1,5 @@
 - I'm currently growing newsletters. Send me an email! ed@journals.gg
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardfgt)](https://github.com/edwardfgt/github-readme-stats)
 <!--
 **edwardfgt/edwardfgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
